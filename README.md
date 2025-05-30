@@ -4,8 +4,6 @@
 - lua scripter since 2015+ with 2+ years of js and c++ knowledge
 - all projects licensed under strict terms
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1311743263241277462)](https://discord.com/users/1311743263241277462)
-
 </div>
 
 <h3>accounts:</h3>
@@ -25,11 +23,8 @@
 </details>
 
 <div align="center">
-   
-- currently working on advanced exploitation frameworks
-- specializing in memory manipulation and security bypass
-- actively researching reverse engineering techniques
-- contact for private inquiries only
+
+- feel free to dm me at discord i add friends
 
 <img src="https://komarev.com/ghpvc/?username=L0stVeil&label=profile%20visits&color=0b04c7" alt="L0stVeil" />
 
