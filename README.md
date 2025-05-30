@@ -59,7 +59,7 @@
   <p>i've been making lua scripts since 2017, with love</p>
   <p>my old name on the internet was "mxxer" but after a ban I changed it to l0stveil > Lost Veil</p>
   <p>my lua scripts are mostly made for Roblox</p>
-  <p>my real name is Omer</p>
+  <p>my real name is Omerand i am turkish</p>
 </div>
 
 <div align="center">
