@@ -63,34 +63,32 @@
 </div>
 
 <div align="center">
-  <h2>my github stats</h2>
-  
-  <a href="https://github.com/L0stVeil">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=L0stVeil&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  
-  <a href="https://github.com/L0stVeil">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=L0stVeil&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-  </a>
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=L0stVeil&theme=radical&hide_border=true" alt="streak stats">
-  
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=L0stVeil&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+  <h2>my stats</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L0stVeil&theme=chartreuse-dark&hide_border=true" alt="streak stats">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=L0stVeil&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="github stats">
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=L0stVeil&theme=matrix&no-frame=true&row=1&column=6" alt="trophies" />
 </div>
 
 <div align="center">
   <h2>my current projects</h2>
   <a href="https://github.com/L0stVeil/Other">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=L0stVeil&repo=Other&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=Other&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/L0stVeil/LocalScripts">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=L0stVeil&repo=LocalScripts&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=LocalScripts&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
 <div align="center">
   <h2>my activity</h2>
-  <img src="https://github-readme-activity-graph.herokuapp.com/graph?username=L0stVeil&theme=redical&hide_border=true" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L0stVeil&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="activity graph">
+</div>
+
+<div align="center">
+  <h2>my languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0stVeil&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="top languages">
 </div>
 
 <div align="center">
@@ -100,5 +98,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=L0stVeil&label=profile_visits&color=ff0080&style=for-the-badge" alt="L0stVeil" />
+  <img src="https://komarev.com/ghpvc/?username=L0stVeil&label=profile_visits&color=00FF00&style=for-the-badge" alt="L0stVeil" />
 </div>
