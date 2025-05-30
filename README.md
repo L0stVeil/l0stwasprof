@@ -9,11 +9,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=lua+scripter+since+2017%2B;mxxer+was here..;loves+to script+expert;alpha+scripter" alt="Typing SVG" />
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=lua+scripter+since+2017%2B;mxxer+was+here..;loves+to+script+expert;alpha+scripter" alt="Typing SVG" /></a>
+  </p>
 </div>
 
-<div align="center" style="background-color: #000; color: #00FF00; font-family: 'Poppins', monospace; padding: 15px; border-radius: 5px; margin: 10px 0;">
-  <pre>
+<div align="center">
+  <pre style="background-color: #000; color: #00FF00; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px;">
   lua scripter with 2+ years of js and c++ knowledge and more..
   all projects licensed under strict terms
   </pre>
@@ -21,9 +23,9 @@
 
 <h2 align="center">connections</h2>
 <p align="center">
-   <a href="https://discord.com/users/1311743263241277462" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=a&logoColor=a"></a>
-   <a href="https://github.com/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=a&logoColor=a"></a>
-   <a href="https://scriptblox.com/u/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/scriptblox%20-7D5DEC.svg?&style=for-the-badge&logo=a&logoColor=a"></a>
+   <a href="https://discord.com/users/1311743263241277462" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge"></a>
+   <a href="https://github.com/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge"></a>
+   <a href="https://scriptblox.com/u/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/scriptblox%20-7D5DEC.svg?&style=for-the-badge"></a>
 </p>
 
 <h2 align="center">all the languages i know</h2>
@@ -32,48 +34,67 @@
 </p>
 
 <div align="center">
-  <table align="center" style="border: 1px solid #00FF00; border-collapse: collapse;">
+  <table align="center">
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">lua/luau</td>
-      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■□]</code></td>
+      <td>lua/luau</td>
+      <td><code>[■■■■□]</code></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">python/py</td>
-      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■□□□]</code></td>
+      <td>python/py</td>
+      <td><code>[■■□□□]</code></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">javascript(js</td>
-      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■□]</code></td>
+      <td>javascript/js</td>
+      <td><code>[■■■■□]</code></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">c++</td>
-      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■□□□]</code></td>
+      <td>c++</td>
+      <td><code>[■■□□□]</code></td>
     </tr>
   </table>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
   <h2>about me</h2>
-  <p>i've been developing lua scripts since 2017, with love</p>
-  <p>my old name in internet is actually "mxxer" but after a ban i changed it to l0stveil > Lost Veil</p>
-  <p>my lua scripts are mostly made in roblox</p>
-  <p>my real name in real life is omer and i am 15 years old</p>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L0stVeil&theme=chartreuse-dark&hide_border=true" alt="my streak stats">
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=L0stVeil&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="my github stats">
+  <p>I've been making lua scripts since 2017, with love</p>
+  <p>My old name on the internet was "mxxer" but after a ban I changed it to l0stveil > Lost Veil</p>
+  <p>My lua scripts are mostly made for Roblox</p>
+  <p>My real name is Omer and I'm 15 years old</p>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L0stVeil&theme=matrix&no-frame=true&row=1&column=6" alt="my trophies" />
+  <h2>my stats</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L0stVeil&theme=chartreuse-dark&hide_border=true" alt="streak stats">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=L0stVeil&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="github stats">
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=L0stVeil&theme=matrix&no-frame=true&row=1&column=6" alt="trophies" />
 </div>
 
-<div align="center" style="margin-top: 20px; background-color: #000; color: #00FF00; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
+<div align="center">
+  <h2>my projects</h2>
+  <a href="https://github.com/L0stVeil/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=project1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/L0stVeil/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=project2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<div align="center">
+  <h2>my activity</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L0stVeil&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="activity graph">
+</div>
+
+<div align="center">
+  <h2>my languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0stVeil&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="top languages">
+</div>
+
+<div align="center">
+  <pre style="background-color: #000; color: #00FF00; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
   feel free to dm me at discord i add friends
+  </pre>
 </div>
 
 <div align="center">
