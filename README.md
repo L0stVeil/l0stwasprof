@@ -2,7 +2,7 @@
 
 <img src="https://scriptblox.com/images/photo/67aa6a035180152e172ad126-1746834882764.png" alt="l0stveil" width="150" height="150">
 
-- hi, i'm l0stveil
+- hi, i'm l0stveil my real name is omer
 - lua scripter since 2015+ with 2+ years of js and c++ knowledge
 - all projects licensed under strict terms
 
