@@ -4,7 +4,7 @@
 - lua scripter since 2015+ with 2+ years of js and c++ knowledge
 - all projects licensed under strict terms
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1311743263241277462?idleMessage=im%20probably%20scripting%20rn..&theme=dark)](https://discord.com/users/1311743263241277462)
+<img src="https://lanyard.cnrad.dev/api/1311743263241277462?idleMessage=im%20probably%20scripting%20rn..&theme=dark" alt="Discord Presence">
 
 </div>
 
