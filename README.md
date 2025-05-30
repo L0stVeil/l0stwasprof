@@ -14,7 +14,7 @@
 
 <div align="center" style="background-color: #000; color: #00FF00; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px; margin: 10px 0;">
   <pre>
-  lua scripter with 2+ years of js and c++ knowledge and other
+  lua scripter with 2+ years of js and c++ knowledge and more..
   all projects licensed under strict terms
   </pre>
 </div>
@@ -30,16 +30,6 @@
 <p align="center">
    <img src="https://skillicons.dev/icons?i=lua,js,cpp,py,nodejs,vscode&theme=dark" />
 </p>
-
-<div align="center" style="margin-top: 20px;">
-  <h3>specializations</h3>
-  <p>???</p>
-  <p>???</p>
-  <p>???</p>
-  <p>???</p>
-  <p>???</p>
-  <p>???</p>
-</div>
 
 <div align="center">
   <table align="center" style="border: 1px solid #00FF00; border-collapse: collapse;">
@@ -84,17 +74,6 @@
 
 <div align="center" style="margin-top: 20px; background-color: #000; color: #00FF00; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
   feel free to dm me at discord i add friends
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <h2>featured technologies</h2>
-  <p>memory scanning and manipulation</p>
-  <p>hook implementation and function redirection</p>
-  <p>metatable modification and control</p>
-  <p>environment manipulation</p>
-  <p>remote function execution</p>
-  <p>anti-detection systems</p>
-  <p>performance optimization techniques</p>
 </div>
 
 <div align="center">
