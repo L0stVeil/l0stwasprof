@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/L0stVeil/l0stwasprof/refs/heads/main/L0stIm](https://scriptblox.com/images/photo/67aa6a035180152e172ad126-1746834882764.png)" alt="l0stveil" width="150" height="150">
+<img src="https://scriptblox.com/images/photo/67aa6a035180152e172ad126-1746834882764.png" alt="l0stveil" width="150" height="150">
 
 # l0stveil
 
