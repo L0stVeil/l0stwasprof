@@ -73,10 +73,10 @@
 
 <div align="center">
   <h2>my projects</h2>
-  <a href="https://github.com/L0stVeil/project1">
+  <a href="https://github.com/L0stVeil/Other">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=project1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/L0stVeil/project2">
+  <a href="https://github.com/L0stVeil/LocalScripts">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=project2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
