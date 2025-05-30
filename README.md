@@ -30,7 +30,7 @@
 
 <h2 align="center">all the languages i know</h2>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=lua,js,cpp,py,vscode&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=lua,js,cpp,py&theme=dark" />
 </p>
 
 <div align="center">
