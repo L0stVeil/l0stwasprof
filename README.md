@@ -1,19 +1,18 @@
 <div align="center">
 
 - hi, i'm l0stveil
-- lua scripter since 2015+ + 4 years of js knowledge
-- im currently learning reverse engineering
+- lua scripter since 2015+ + 2 years of js and c++ knowledge
 - all my projects are licensed
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1311743263241277462)](https://discord.com/users/1311743263241277462)
+[[![Discord Presence](https://lanyard.cnrad.dev/api/1311743263241277462)](https://discord.com/users/1311743263241277462)](https://lanyard.cnrad.dev/api/1311743263241277462?idleMessage=im%20probably%20scripting%20rn..&theme=dark)
 
 
 </div>
 <h3>my accounts;</h3>
 <p align="center">
    <a href="https://discord.com/users/1311743263241277462" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://github.com/juywvm" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://github.com/L0stVeil" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <details align="center">
