@@ -64,8 +64,6 @@
 
 <div align="center">
   <h2>my stats</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veil0x14&theme=chartreuse-dark&hide_border=true" alt="streak stats">
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=veil0x14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="github stats">
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=veil0x14&theme=matrix&no-frame=true&row=1&column=6" alt="trophies" />
