@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/L0stVeil/l0stwasprof/refs/heads/main/L0stIm" alt="l0stveil" width="150" height="150">
+<img src="https://scriptblox.com/images/photo/67aa6a035180152e172ad126-1746834882764.png" alt="l0stveil" width="150" height="150">
 
-# l0stveil
+# i'm not actually ultimate scripter..
 
-<p><i>lua exploitation specialist</i></p>
+<p><i></i></p>
 
 </div>
 
@@ -30,11 +30,7 @@
 
 <div align="center" style="background-color: #000; color: #00FF00; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px; margin: 10px 0;">
   <pre style="margin: 0;">
-  function init_matrix() {
-    advanced exploitation frameworks
-    memory manipulation techniques
-    security bypass research
-    reverse engineering specialist
+  function init_matrix() 
     feel free to dm me at discord i add friends
   }
   
@@ -45,20 +41,20 @@
 <div align="center">
   <table align="center" style="border: 1px solid #00FF00; border-collapse: collapse;">
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">memory manipulation</td>
-      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■■]</code></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">security bypass</td>
+      <td style="border: 1px solid #00FF00; padding: 8px;">luau/lua</td>
       <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■□]</code></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">reverse engineering</td>
+      <td style="border: 1px solid #00FF00; padding: 8px;">c++</td>
+      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■□□□]</code></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #00FF00; padding: 8px;">javascript/js</td>
       <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■□]</code></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">exploitation development</td>
-      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■■]</code></td>
+      <td style="border: 1px solid #00FF00; padding: 8px;">python</td>
+      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■□□]</code></td>
     </tr>
   </table>
 </div>
@@ -67,20 +63,20 @@
   <h2>projects</h2>
   <table align="center">
     <tr>
-      <td>memory scanner</td>
-      <td><code>private</code></td>
+      <td>???</td>
+      <td><code>0x1r error</code></td>
     </tr>
     <tr>
-      <td>security bypass framework</td>
-      <td><code>in development</code></td>
+      <td>???</td>
+      <td><code>0x14 error</code></td>
     </tr>
     <tr>
-      <td>exploitation library</td>
-      <td><code>private</code></td>
+      <td>???</td>
+      <td><code>0x14 error</code></td>
     </tr>
     <tr>
-      <td>reverse engineering tools</td>
-      <td><code>private</code></td>
+      <td>???</td>
+      <td><code>0x14 error</code></td>
     </tr>
   </table>
 </div>
@@ -99,9 +95,8 @@
 
 <div align="center" style="margin-top: 20px;">
   <pre style="background-color: #000; color: #00FF00; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
-  // scriptblox: l0stveil
+  // scriptblox: [l0stveil](https://scriptblox.com/u/L0stVeil)
   // exploitation since 2015
-  // access granted
   </pre>
 </div>
 
