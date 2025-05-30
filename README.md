@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/L0stVeil/l0stwasprof/refs/heads/main/L0stIm" alt="l0stveil" width="150" height="150">
+<img src="https://scriptblox.com/images/photo/67aa6a035180152e172ad126-1746834882764.png" alt="l0stveil" width="150" height="150">
 
 # l0stveil was here..
 
-<p><i>memory manipulation expert</i></p>
+<p><i>lua expert basically</i></p>
 
 </div>
 
@@ -14,9 +14,8 @@
 
 <div align="center" style="background-color: #000; color: #00FF00; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px; margin: 10px 0;">
   <pre>
-  lua scripter with 2+ years of js and c++ knowledge
+  lua scripter with 2+ years of js and c++ knowledge and other
   all projects licensed under strict terms
-  advanced exploitation frameworks developer
   </pre>
 </div>
 
@@ -27,118 +26,60 @@
    <a href="https://scriptblox.com/u/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/scriptblox%20-7D5DEC.svg?&style=for-the-badge&logo=https://scriptblox.com/favicon.ico&logoColor=white"></a>
 </p>
 
-<h2 align="center">technical expertise</h2>
+<h2 align="center">all the languages i know</h2>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=lua,js,cpp,py,nodejs,vscode&theme=dark" />
 </p>
 
 <div align="center" style="margin-top: 20px;">
   <h3>specializations</h3>
-  <p>advanced memory manipulation techniques</p>
-  <p>security system analysis</p>
-  <p>metatable manipulation</p>
-  <p>environment control mechanisms</p>
-  <p>remote execution strategies</p>
-  <p>hook implementation</p>
+  <p>???</p>
+  <p>???</p>
+  <p>???</p>
+  <p>???</p>
+  <p>???</p>
+  <p>???</p>
 </div>
 
 <div align="center">
   <table align="center" style="border: 1px solid #00FF00; border-collapse: collapse;">
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">memory_manipulation</td>
-      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■■]</code></td>
+      <td style="border: 1px solid #00FF00; padding: 8px;">lua/luau</td>
+      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■□]</code></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">security_bypass</td>
-      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■■]</code></td>
+      <td style="border: 1px solid #00FF00; padding: 8px;">python/py</td>
+      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■□□□]</code></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">lua_expertise</td>
-      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■■]</code></td>
+      <td style="border: 1px solid #00FF00; padding: 8px;">javascript(js</td>
+      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■□]</code></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">exploitation_development</td>
-      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■■]</code></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h2>current projects</h2>
-  <table align="center">
-    <tr>
-      <td>memory scanner</td>
-      <td><code>private</code></td>
-    </tr>
-    <tr>
-      <td>security bypass framework</td>
-      <td><code>in development</code></td>
-    </tr>
-    <tr>
-      <td>exploitation library</td>
-      <td><code>private</code></td>
-    </tr>
-    <tr>
-      <td>script hub</td>
-      <td><code>private</code></td>
+      <td style="border: 1px solid #00FF00; padding: 8px;">c++</td>
+      <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■□□□]</code></td>
     </tr>
   </table>
 </div>
 
 <div align="center" style="margin-top: 20px;">
   <h2>about me</h2>
-  <p>i've been developing lua scripts since 2015, with a focus on memory manipulation and exploitation techniques</p>
-  <p>my expertise includes creating undetectable scripts that bypass security systems</p>
-  <p>i'm constantly researching new methods to improve script performance and security</p>
-  <p>i specialize in creating custom frameworks that provide powerful yet user-friendly interfaces</p>
-  <p>all my projects are developed with maximum efficiency and minimal detection footprint</p>
-  <p>i value collaboration with other skilled developers to push the boundaries of what's possible</p>
+  <p>i've been developing lua scripts since 2017, with love</p>
+  <p>my old name in internet is actually "mxxer" but after a ban i changed it to l0stveil > Lost Veil</p>
+  <p>my lua scripts are mostly made in roblox</p>
+  <p>my real name in real life is omer and i am 15 years old</p>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <h2>development philosophy</h2>
-  <ul align="left" style="display: inline-block; text-align: left;">
-    <li>focus on creating efficient, optimized code that performs flawlessly</li>
-    <li>implement advanced techniques that remain undetected by security systems</li>
-    <li>develop user-friendly interfaces that make powerful tools accessible</li>
-    <li>continuously research and implement cutting-edge methods</li>
-    <li>maintain strict code quality standards across all projects</li>
-    <li>ensure all solutions are thoroughly tested before release</li>
-  </ul>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L0stVeil&theme=chartreuse-dark&hide_border=true" alt="my streak stats">
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L0stVeil&theme=chartreuse-dark&hide_border=true" alt="streak stats">
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=L0stVeil&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="L0stVeil's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=L0stVeil&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="my github stats">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L0stVeil&theme=matrix&no-frame=true&row=1&column=6" alt="trophy" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <h2>services</h2>
-  <table align="center">
-    <tr>
-      <td>custom script development</td>
-      <td><code>available</code></td>
-    </tr>
-    <tr>
-      <td>security analysis</td>
-      <td><code>available</code></td>
-    </tr>
-    <tr>
-      <td>framework implementation</td>
-      <td><code>available</code></td>
-    </tr>
-    <tr>
-      <td>performance optimization</td>
-      <td><code>available</code></td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=L0stVeil&theme=matrix&no-frame=true&row=1&column=6" alt="my trophies" />
 </div>
 
 <div align="center" style="margin-top: 20px; background-color: #000; color: #00FF00; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
