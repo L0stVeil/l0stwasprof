@@ -25,7 +25,7 @@
 <p align="center">
    <a href="https://discord.com/users/1311743263241277462" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge"></a>
    <a href="https://scriptblox.com/u/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/scriptblox%20-7D5DEC.svg?&style=for-the-badge"></a>
-  <a href="https://rscripts.net/@l0stveil" target="_blank"><img src="https://img.shields.io/badge/rscripts%20-808080 .svg?&style=for-the-badge"></a>
+  <a href="https://rscripts.net/@l0stveil" target="_blank"><img src="https://img.shields.io/badge/scriptblox%20-808080.svg?&style=for-the-badge.svg?&style=for-the-badge"></a>
 </p>
 
 <h2 align="center">all the languages i know</h2>
