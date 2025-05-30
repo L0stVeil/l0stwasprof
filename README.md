@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://scriptblox.com/images/photo/67aa6a035180152e172ad126-1746834882764.png" alt="l0stveil" width="150" height="150">
+<img src="https://scriptblox.com/images/photo/67aa6a035180152e172ad126-1746834882764.png" alt="veil0x14" width="150" height="150">
 
 # l0stveil was here..
 
@@ -24,8 +24,8 @@
 <h2 align="center">connections</h2>
 <p align="center">
    <a href="https://discord.com/users/1311743263241277462" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge"></a>
-   <a href="https://github.com/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge"></a>
-   <a href="https://scriptblox.com/u/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/scriptblox%20-7D5DEC.svg?&style=for-the-badge"></a>
+   <a href="https://github.com/veil0x14" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge"></a>
+   <a href="https://scriptblox.com/u/veil0x14" target="_blank"><img src="https://img.shields.io/badge/scriptblox%20-7D5DEC.svg?&style=for-the-badge"></a>
 </p>
 
 <h2 align="center">all the languages i know</h2>
@@ -64,20 +64,20 @@
 
 <div align="center">
   <h2>my stats</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L0stVeil&theme=chartreuse-dark&hide_border=true" alt="streak stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veil0x14&theme=chartreuse-dark&hide_border=true" alt="streak stats">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=L0stVeil&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=veil0x14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="github stats">
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=L0stVeil&theme=matrix&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=veil0x14&theme=matrix&no-frame=true&row=1&column=6" alt="trophies" />
 </div>
 
 <div align="center">
   <h2>my current projects</h2>
   <a href="https://github.com/veil0x14/Other">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=Other&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veil0x14&repo=Other&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/veil0x14/LocalScripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=LocalScripts&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veil0x14&repo=LocalScripts&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
@@ -98,5 +98,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=veil0x14&label=profile_visits&color=00FF00&style=for-the-badge" alt="L0stVeil" />
+  <img src="https://komarev.com/ghpvc/?username=veil0x14&label=profile_visits&color=00FF00&style=for-the-badge" alt="veil0x14" />
 </div>
