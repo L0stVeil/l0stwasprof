@@ -5,7 +5,7 @@
 - all my projects are licensed
 
 
-[[![Discord Presence](https://lanyard.cnrad.dev/api/1311743263241277462)](https://discord.com/users/1311743263241277462)](https://lanyard.cnrad.dev/api/1311743263241277462?idleMessage=im%20probably%20scripting%20rn..&theme=dark)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1311743263241277462?idleMessage=im%20probably%20scripting%20rn..&theme=dark)](https://discord.com/users/1311743263241277462)
 
 
 </div>
