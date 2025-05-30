@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/L0stVeil/l0stwasprof/refs/heads/main/L0stIm" alt="l0stveil" width="150" height="150">
 
-# l0stveil
+# l0stveil was here..
 
 <p><i>memory manipulation expert</i></p>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=lua+scripter+since+2015%2B;security+researcher;memory+manipulation+expert;reverse+engineering+specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=lua+scripter+since+2015%2B;security+researcher;memory+manipulation+expert;exploitation+specialist" alt="Typing SVG" />
 </div>
 
 <div align="center" style="background-color: #000; color: #00FF00; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px; margin: 10px 0;">
@@ -24,7 +24,7 @@
 <p align="center">
    <a href="https://discord.com/users/1311743263241277462" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://github.com/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://scriptblox.com/u/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/scriptblox%20-7D5DEC.svg?&style=for-the-badge&logoColor=white"></a>
+   <a href="https://scriptblox.com/u/L0stVeil" target="_blank"><img src="https://img.shields.io/badge/scriptblox%20-7D5DEC.svg?&style=for-the-badge&logo=https://scriptblox.com/favicon.ico&logoColor=white"></a>
 </p>
 
 <h2 align="center">technical expertise</h2>
@@ -32,17 +32,14 @@
    <img src="https://skillicons.dev/icons?i=lua,js,cpp,py,nodejs,vscode&theme=dark" />
 </p>
 
-<div align="center" style="background-color: #000; border: 1px solid #00FF00; padding: 15px; border-radius: 5px; margin: 10px 0;">
-  <pre style="margin: 0; color: #00FF00; font-family: 'Courier New', monospace;">
-  function init_framework() {
-    memory_scanner()
-    security_bypass()
-    hook_injection()
-    metatable_manipulation()
-    environment_control()
-    remote_execution()
-  }
-  </pre>
+<div align="center" style="margin-top: 20px;">
+  <h3>specializations</h3>
+  <p>advanced memory manipulation techniques</p>
+  <p>security system analysis</p>
+  <p>metatable manipulation</p>
+  <p>environment control mechanisms</p>
+  <p>remote execution strategies</p>
+  <p>hook implementation</p>
 </div>
 
 <div align="center">
@@ -56,7 +53,7 @@
       <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■■]</code></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #00FF00; padding: 8px;">reverse_engineering</td>
+      <td style="border: 1px solid #00FF00; padding: 8px;">lua_expertise</td>
       <td style="border: 1px solid #00FF00; padding: 8px;"><code>[■■■■■]</code></td>
     </tr>
     <tr>
@@ -82,10 +79,32 @@
       <td><code>private</code></td>
     </tr>
     <tr>
-      <td>reverse engineering toolkit</td>
+      <td>script hub</td>
       <td><code>private</code></td>
     </tr>
   </table>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <h2>about me</h2>
+  <p>i've been developing lua scripts since 2015, with a focus on memory manipulation and exploitation techniques</p>
+  <p>my expertise includes creating undetectable scripts that bypass security systems</p>
+  <p>i'm constantly researching new methods to improve script performance and security</p>
+  <p>i specialize in creating custom frameworks that provide powerful yet user-friendly interfaces</p>
+  <p>all my projects are developed with maximum efficiency and minimal detection footprint</p>
+  <p>i value collaboration with other skilled developers to push the boundaries of what's possible</p>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <h2>development philosophy</h2>
+  <ul align="left" style="display: inline-block; text-align: left;">
+    <li>focus on creating efficient, optimized code that performs flawlessly</li>
+    <li>implement advanced techniques that remain undetected by security systems</li>
+    <li>develop user-friendly interfaces that make powerful tools accessible</li>
+    <li>continuously research and implement cutting-edge methods</li>
+    <li>maintain strict code quality standards across all projects</li>
+    <li>ensure all solutions are thoroughly tested before release</li>
+  </ul>
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -101,9 +120,40 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <pre style="background-color: #000; color: #00FF00; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
+  <h2>services</h2>
+  <table align="center">
+    <tr>
+      <td>custom script development</td>
+      <td><code>available</code></td>
+    </tr>
+    <tr>
+      <td>security analysis</td>
+      <td><code>available</code></td>
+    </tr>
+    <tr>
+      <td>framework implementation</td>
+      <td><code>available</code></td>
+    </tr>
+    <tr>
+      <td>performance optimization</td>
+      <td><code>available</code></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin-top: 20px; background-color: #000; color: #00FF00; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
   feel free to dm me at discord i add friends
-  </pre>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <h2>featured technologies</h2>
+  <p>memory scanning and manipulation</p>
+  <p>hook implementation and function redirection</p>
+  <p>metatable modification and control</p>
+  <p>environment manipulation</p>
+  <p>remote function execution</p>
+  <p>anti-detection systems</p>
+  <p>performance optimization techniques</p>
 </div>
 
 <div align="center">
