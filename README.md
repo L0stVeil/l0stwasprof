@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://scriptblox.com/images/photo/67aa6a035180152e172ad126-1746834882764.png" alt="l0stveil" width="150" height="150">
+
 - hi, i'm l0stveil
 - lua scripter since 2015+ with 2+ years of js and c++ knowledge
 - all projects licensed under strict terms
@@ -23,9 +25,45 @@
 </details>
 
 <div align="center">
-
+   
+- currently working on advanced exploitation frameworks
+- specializing in memory manipulation and security bypass
+- actively researching reverse engineering techniques
 - feel free to dm me at discord i add friends
 
 <img src="https://komarev.com/ghpvc/?username=L0stVeil&label=profile%20visits&color=0b04c7" alt="L0stVeil" />
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=L0stVeil&show_icons=true&theme=radical&hide_border=true" alt="L0stVeil's GitHub stats">
+</div>
+
+<div align="center">
+  <h3>current projects</h3>
+  <p>working on private exploitation tools and security research</p>
+  <p>developing advanced memory manipulation frameworks</p>
+  <p>researching game security systems</p>
+</div>
+
+<div align="center">
+  <h3>experience</h3>
+  <table>
+    <tr>
+      <td>lua/luau</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>javascript</td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>c++</td>
+      <td>⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>reverse engineering</td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+  </table>
 </div>
