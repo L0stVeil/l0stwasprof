@@ -82,11 +82,6 @@
 </div>
 
 <div align="center">
-  <h2>my activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veil0x14&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="activity graph">
-</div>
-
-<div align="center">
   <h2>my languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veil0x14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="top languages">
 </div>
