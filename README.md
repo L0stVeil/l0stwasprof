@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=lua+scripter+since+2017%2B;mxxer+was here..;loves+to script+expert;alpha+scripter" alt="Typing SVG" />
 </div>
 
-<div align="center" style="background-color: #000; color: #00FF00; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px; margin: 10px 0;">
+<div align="center" style="background-color: #000; color: #00FF00; font-family: 'Poppins', monospace; padding: 15px; border-radius: 5px; margin: 10px 0;">
   <pre>
   lua scripter with 2+ years of js and c++ knowledge and more..
   all projects licensed under strict terms
