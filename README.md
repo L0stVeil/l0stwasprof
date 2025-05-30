@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <pre style="background-color: #000; color: #00FF00; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px;">
+  <pre style="background-color: #000; color: #ff0080; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px;">
   lua scripter with 2+ years of js and c++ knowledge and more..
   all projects licensed under strict terms
   </pre>
@@ -56,10 +56,10 @@
 
 <div align="center">
   <h2>about me</h2>
-  <p>I've been making lua scripts since 2017, with love</p>
-  <p>My old name on the internet was "mxxer" but after a ban I changed it to l0stveil > Lost Veil</p>
-  <p>My lua scripts are mostly made for Roblox</p>
-  <p>My real name is Omer and I'm 15 years old</p>
+  <p>i've been making lua scripts since 2017, with love</p>
+  <p>my old name on the internet was "mxxer" but after a ban I changed it to l0stveil > Lost Veil</p>
+  <p>my lua scripts are mostly made for Roblox</p>
+  <p>my real name is Omer and i am 15 years old</p>
 </div>
 
 <div align="center">
