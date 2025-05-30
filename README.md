@@ -16,7 +16,7 @@
 
 <div align="center">
   <pre style="background-color: #000; color: #ff0080; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px;">
-  lua scripter with 6+ years of js and c++ knowledge and more..
+  lua scripter with 6+ years of js and c+ knowledge and more..
   all projects MIT licensed under strict terms
   </pre>
 </div>
@@ -48,7 +48,7 @@
       <td><code>[■■■■□]</code></td>
     </tr>
     <tr>
-      <td>c++</td>
+      <td>c+</td>
       <td><code>[■■□□□]</code></td>
     </tr>
   </table>
