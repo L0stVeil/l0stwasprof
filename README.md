@@ -4,7 +4,7 @@
 
 # l0stveil was here..
 
-<p><i>lua expert basically</i></p>
+<p><i>sigmas vs alphas vs betas who gonna win!</i></p>
 
 </div>
 
