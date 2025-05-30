@@ -4,7 +4,7 @@
 - lua scripter since 2015+ with 2+ years of js and c++ knowledge
 - all projects licensed under strict terms
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1311743263241277462)](https://discord.com/users/1311743263241277462)
+[![Discord Presence](https://lanyard.cnrad.dev/api/999996983743885382)](https://discord.com/users/999996983743885382)
 
 </div>
 
