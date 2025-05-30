@@ -72,12 +72,12 @@
 </div>
 
 <div align="center">
-  <h2>my projects</h2>
+  <h2>my current projects</h2>
   <a href="https://github.com/L0stVeil/Other">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=Other&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/L0stVeil/LocalScripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=LocalScrits&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=L0stVeil&repo=LocalScripts&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
