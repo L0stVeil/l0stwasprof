@@ -4,19 +4,19 @@
 
 # l0stveil was here..
 
-<p><i>sigmas vs alphas vs betas who gonna win!</i></p>
+<p><i>welcome to my github , buddy!</i></p>
 
 </div>
 
 <div align="center">
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=lua+scripter+since+2017%2B;mxxer+was+here..;loves+to+script+expert;alpha+scripter" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=lua+scripter+since+2017%2B;mxxer+was+here..;loves+to+script+;alpha+scripter" alt="Typing SVG" /></a>
   </p>
 </div>
 
 <div align="center">
   <pre style="background-color: #000; color: #ff0080; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px;">
-  lua scripter with 6+ years of js and c knowledge and more..
+  lua scripter with 6+ years of js and c+ knowledge and more..
   all projects MIT licensed under strict terms
   </pre>
 </div>
@@ -30,7 +30,7 @@
 
 <h2 align="center">all the languages i know</h2>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=lua,js,c,py&theme=dark"/>
+   <img src="https://skillicons.dev/icons?i=lua,js,c+,py&theme=dark"/>
 </p>
 
 <div align="center">
