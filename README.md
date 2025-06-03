@@ -15,8 +15,8 @@
 </div>
 
 <div align="center">
-  <pre style="background-color: #000; color: #ff0080; font-family: 'Courier New', monospace; padding: 15px; border-radius: 5px;">
-  lua scripter with 6+ years of js and c+ knowledge and more..
+  <pre style="background-color: #000; color: #ff0080; font-family: 'Poppins', monospace; padding: 15px; border-radius: 5px;">
+  lua scripter with 6+ years of js and cs knowledge and more..
   all projects MIT licensed under strict terms
   </pre>
 </div>
@@ -30,7 +30,7 @@
 
 <h2 align="center">all the languages i know</h2>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=lua,js,c+,py&theme=dark"/>
+   <img src="https://skillicons.dev/icons?i=lua,js,cs,py&theme=red"/>
 </p>
 
 <div align="center">
@@ -48,7 +48,7 @@
       <td><code>[■■■■□]</code></td>
     </tr>
     <tr>
-      <td>c</td>
+      <td>cs/c+</td>
       <td><code>[■■■□□]</code></td>
     </tr>
   </table>
