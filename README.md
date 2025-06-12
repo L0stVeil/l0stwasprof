@@ -48,7 +48,7 @@
       <td><code>[■■■■□]</code></td>
     </tr>
     <tr>
-      <td>cs/c+</td>
+      <td>cpp/c++</td>
       <td><code>[■■■□□]</code></td>
     </tr>
   </table>
