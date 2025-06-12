@@ -16,7 +16,7 @@
 
 <div align="center">
   <pre style="background-color: #000; color: #ff0080; font-family: 'Poppins', monospace; padding: 15px; border-radius: 5px;">
-  lua scripter with 6+ years of js and cs knowledge and more..
+  lua scripter with 6+ years of js and cpp knowledge and more..
   all projects MIT licensed under strict terms
   </pre>
 </div>
@@ -30,7 +30,7 @@
 
 <h2 align="center">all the languages i know</h2>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=lua,js,cs,py&theme=dark"/>
+   <img src="https://skillicons.dev/icons?i=lua,js,cpp,py&theme=dark"/>
 </p>
 
 <div align="center">
